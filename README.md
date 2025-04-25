@@ -16,24 +16,26 @@ Aquí encontrarás:
 1. **Taller 01: Python Básico**
    - Tipos de datos, estructuras, funciones, manejo de archivos
    - [Notebook - Python Básico](link_al_notebook_python_basico)
+   - 🎥 Grabación Taller 01: [Ver en YouTube](link_video_taller01)
+   - 🎥 Grabación Taller 02: [Ver en YouTube](link_video_taller02)
 
 2. **Taller 02: Introducción a Numpy**
    - Arreglos, operaciones matemáticas, generación de números aleatorios
    - [Notebook - Numpy](link_al_notebook_numpy)
+   - 🎥 Grabación Taller 03: [Ver en YouTube](link_video_taller03)
+   - 🎥 Grabación Taller 04: [Ver en YouTube](link_video_taller04)
 
 3. **Taller 03: Introducción a Matplotlib**
    - Creación de gráficos 2D y 3D, histogramas, scatter plots, bar graphs
    - [Notebook - Matplotlib](link_al_notebook_matplotlib)
+   - 🎥 Grabación Taller 05: [Ver en YouTube](link_video_taller05)
+   - 🎥 Grabación Taller 06: [Ver en YouTube](link_video_taller06)
 
 4. **Taller 04: Introducción a Pandas**
    - DataFrames, manejo de datos faltantes, agrupamiento, importación/exportación
    - [Notebook - Pandas](link_al_notebook_pandas)
-
-### 🎥 Grabaciones:
-- **Taller 01:** [Ver en YouTube](link_video_taller01)
-- **Taller 02:** [Ver en YouTube](link_video_taller02)
-- **Taller 03:** [Ver en YouTube](link_video_taller03)
-- **Taller 04:** [Ver en YouTube](link_video_taller04)
+   - 🎥 Grabación Taller 07: [Ver en YouTube](link_video_taller07)
+   - 🎥 Grabación Taller 08: [Ver en YouTube](link_video_taller08)
 
 ---
 
