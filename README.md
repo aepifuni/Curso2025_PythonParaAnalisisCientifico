@@ -81,19 +81,6 @@ Aquí encontrarás:
 
 ---
 
-## 🏆 Proyecto Final (Módulo 1)
-
-Para obtener el certificado del **Módulo 1**:
-- Formar grupos de 3 estudiantes.
-- Resolver las 3 preguntas relacionadas a **Numpy**, **Matplotlib** y **Pandas**.
-- Se considera la **asistencia a clase** (10% de la nota final).
-
-✅ Costo del certificado:
-- **20 soles** por módulo individual
-- **50 soles** si llevas los tres módulos
-
----
-
 ## 📢 Contacto
 
 Organizado por: **AEPIF UNI**  
