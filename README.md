@@ -1,5 +1,3 @@
-# PythonParaCiencias
-
 # 🐍 Curso AEPIF UNI 2025: Python para análisis y aplicaciones científicas
 
 Bienvenid@s al repositorio oficial del Minicurso organizado por **AEPIF UNI**.  
@@ -39,7 +37,7 @@ Aquí encontrarás:
 
 ---
 
-## 🧠 Módulo 2: Simulaciones con Python
+## 🧠 Módulo 2: Aplicaciones y Simulaciones con Python
 
 ### Contenido:
 1. **Taller 1: Introducción a VPython**
