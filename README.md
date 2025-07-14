@@ -53,22 +53,18 @@ Aquí encontrarás:
    - 🎥 Grabación Lección 10: [Ver en YouTube](link_video_taller03)
 ---
 
-%## 🧪 Módulo 3: Manejo de Datos en Ciencias de los Materiales
+## 🧪 Módulo 3: Manejo de Datos en Ciencias de los Materiales
 
-%### Contenido:
-%1. **Taller 1: Introducción a HyperSpy**
-%   - Análisis de datos de microscopía
-%   - [Notebook - HyperSpy](link_al_notebook_hyperspy)
+### Contenido:
+1. **Taller 1: Introducción a HyperSpy**
+   - Análisis de datos de microscopía
+   - [Notebook - HyperSpy](link_al_notebook_hyperspy)
 
-%2. **Taller 2: Introducción a Atomap**
-%   - Análisis atómico de imágenes de STEM
-%   - [Notebook - Atomap](link_al_notebook_atomap)
+2. **Taller 2: Introducción a Atomap**
+   - Análisis atómico de imágenes de STEM
+   - [Notebook - Atomap](link_al_notebook_atomap)
 
-%### 🎥 Grabaciones:
-%- **Taller 1:** [Ver en YouTube](link_video_hyperspy)
-%- **Taller 2:** [Ver en YouTube](link_video_atomap)
-
-%---
+---
 
 ## 📢 Contacto
 
