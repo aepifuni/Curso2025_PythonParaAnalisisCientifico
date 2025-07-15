@@ -1,6 +1,6 @@
 # 🐍 Curso AEPIF UNI 2025: Python para análisis y aplicaciones científicas
 
-Bienvenid@s al repositorio oficial del Minicurso organizado por **AEPIF UNI**.  
+Bienvenid@s al repositorio oficial del Curso organizado por **AEPIF UNI**.  
 Aquí encontrarás:
 - Notebooks de cada taller
 - Recursos de apoyo
@@ -57,18 +57,24 @@ Aquí encontrarás:
 
 ### Contenido:
 1. **Taller 1: Introducción a HyperSpy**
-   - Análisis de datos de microscopía
    - [Notebook - HyperSpy](link_al_notebook_hyperspy)
+   - 🎥 Grabación Lección 11: [Ver en YouTube](link_video_taller03)
 
 2. **Taller 2: Introducción a Atomap**
-   - Análisis atómico de imágenes de STEM
    - [Notebook - Atomap](link_al_notebook_atomap)
+   - 🎥 Grabación Lección 12: [Ver en YouTube](link_video_taller03)
 
 ---
 
 ## 📢 Contacto
 
 Organizado por: **AEPIF UNI**  
+
+* [Webpage](https://sites.google.com/view/aepif/) 
+* [Github](https://github.com/aepifuni/) 
+* [Instagram](https://www.instagram.com/aepif.uni/) 
+* [Facebook](https://www.facebook.com/AEPIFUNI)
+* [YouTube](https://www.youtube.com/channel/UCtervcDQNE3TZyDkBoMEqqw) 
 
 ---
 
