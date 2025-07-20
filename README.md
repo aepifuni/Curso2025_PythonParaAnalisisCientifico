@@ -50,7 +50,7 @@ Aquí encontrarás:
    - [Notebook - Scipy2](https://github.com/aepifuni/Curso2025_PythonParaAnalisisCientifico/blob/main/M2_%20Aplicaciones%20Cient%C3%ADficas%202025/2_Scipy2.ipynb)
    - 🎥 Grabación Lección 09: [Ver en YouTube](link_video_taller03)
    - [Notebook - Scipy3](https://github.com/aepifuni/Curso2025_PythonParaAnalisisCientifico/blob/main/M2_%20Aplicaciones%20Cient%C3%ADficas%202025/2_Scipy3_Procesamiento%20de%20Se%C3%B1ales.ipynb)
-   - 🎥 Grabación Lección 10: [Ver en YouTube]([link_video_taller03](https://www.youtube.com/watch?v=jmUGdhMDOyk))
+   - 🎥 Grabación Lección 10: [Ver en YouTube](https://www.youtube.com/watch?v=jmUGdhMDOyk)
 ---
 
 ## 🧪 Módulo 3: Manejo de Datos en Ciencias de los Materiales
