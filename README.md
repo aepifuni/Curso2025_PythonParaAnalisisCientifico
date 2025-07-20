@@ -19,7 +19,7 @@ Aquí encontrarás:
 2. **Taller 02: Introducción a Numpy**
    - Arreglos, operaciones matemáticas, generación de números aleatorios
    - [Notebook - Numpy](https://github.com/aepifuni/Curso2025_PythonParaAnalisisCientifico/blob/main/M1_%20Introducci%C3%B3n%20a%20Python%20para%20ciencia%20de%20datos%201/2_Python_Numpy__didactico.ipynb)
-   - 🎥 Grabación Lección 02: [Ver en YouTube](link_video_taller03)
+   - 🎥 Grabación Lección 02: [Ver en YouTube](https://www.youtube.com/watch?v=rfvZ2wqzq08)
    - [Notebook - Numpy2](https://github.com/aepifuni/Curso2025_PythonParaAnalisisCientifico/blob/main/M1_%20Introducci%C3%B3n%20a%20Python%20para%20ciencia%20de%20datos%201/2__Python_Numpy__didactico2.ipynb)
    - 🎥 Grabación Lección 03: [Ver en YouTube](https://www.youtube.com/watch?v=rfvZ2wqzq08)
 
@@ -31,7 +31,7 @@ Aquí encontrarás:
 4. **Taller 04: Introducción a Pandas**
    - DataFrames, manejo de datos faltantes, agrupamiento, importación/exportación
    - [Notebook - Pandas](https://github.com/aepifuni/Curso2025_PythonParaAnalisisCientifico/blob/main/M1_%20Introducci%C3%B3n%20a%20Python%20para%20ciencia%20de%20datos%201/4._Python_Pandas.ipynb)
-   - 🎥 Grabación Lección 05: [Ver en YouTube]([link_video_taller07](https://www.youtube.com/watch?v=0KBEEuq4sqI))
+   - 🎥 Grabación Lección 05: [Ver en YouTube](https://www.youtube.com/watch?v=0KBEEuq4sqI)
 
 ---
 
@@ -40,15 +40,15 @@ Aquí encontrarás:
 ### Contenido:
 1. **Taller 1: Introducción a VPython**
    - [Notebook - Vpython](https://github.com/aepifuni/Curso2025_PythonParaAnalisisCientifico/blob/main/M2_%20Aplicaciones%20Cient%C3%ADficas%202025/1_Vpython1.ipynb)
-   - 🎥 Grabación Lección 06: [Ver en YouTube](link_video_taller03)
+   - 🎥 Grabación Lección 06: [Ver en YouTube](https://www.youtube.com/watch?v=QcB-10ZcJZE)
    - [Notebook - Vpython2](https://github.com/aepifuni/Curso2025_PythonParaAnalisisCientifico/blob/main/M2_%20Aplicaciones%20Cient%C3%ADficas%202025/1_Vpython2.ipynb)
-   - 🎥 Grabación Lección 07: [Ver en YouTube](link_video_taller03)
+   - 🎥 Grabación Lección 07: [Ver en YouTube](https://www.youtube.com/watch?v=75DmkkFVnUw)
 
 2. **Taller 2: Introducción a Scipy**
    - [Notebook - Scipy](https://github.com/aepifuni/Curso2025_PythonParaAnalisisCientifico/blob/main/M2_%20Aplicaciones%20Cient%C3%ADficas%202025/2_Scipy1.ipynb)
-   - 🎥 Grabación Lección 08: [Ver en YouTube](link_video_taller03)
+   - 🎥 Grabación Lección 08: [Ver en YouTube](https://www.youtube.com/watch?v=rddRHn1Keys)
    - [Notebook - Scipy2](https://github.com/aepifuni/Curso2025_PythonParaAnalisisCientifico/blob/main/M2_%20Aplicaciones%20Cient%C3%ADficas%202025/2_Scipy2.ipynb)
-   - 🎥 Grabación Lección 09: [Ver en YouTube](link_video_taller03)
+   - 🎥 Grabación Lección 09: [Ver en YouTube](https://www.youtube.com/watch?v=ETcESQx7zyA)
    - [Notebook - Scipy3](https://github.com/aepifuni/Curso2025_PythonParaAnalisisCientifico/blob/main/M2_%20Aplicaciones%20Cient%C3%ADficas%202025/2_Scipy3_Procesamiento%20de%20Se%C3%B1ales.ipynb)
    - 🎥 Grabación Lección 10: [Ver en YouTube](https://www.youtube.com/watch?v=jmUGdhMDOyk)
 ---
