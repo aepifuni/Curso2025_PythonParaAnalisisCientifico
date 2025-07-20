@@ -19,7 +19,7 @@ Aquí encontrarás:
 2. **Taller 02: Introducción a Numpy**
    - Arreglos, operaciones matemáticas, generación de números aleatorios
    - [Notebook - Numpy](https://github.com/aepifuni/Curso2025_PythonParaAnalisisCientifico/blob/main/M1_%20Introducci%C3%B3n%20a%20Python%20para%20ciencia%20de%20datos%201/2_Python_Numpy__didactico.ipynb)
-   - 🎥 Grabación Lección 02: [Ver en YouTube](https://www.youtube.com/watch?v=rfvZ2wqzq08)
+   - 🎥 Grabación Lección 02: [Ver en YouTube](https://www.youtube.com/watch?v=-lp5WQcUJbk)
    - [Notebook - Numpy2](https://github.com/aepifuni/Curso2025_PythonParaAnalisisCientifico/blob/main/M1_%20Introducci%C3%B3n%20a%20Python%20para%20ciencia%20de%20datos%201/2__Python_Numpy__didactico2.ipynb)
    - 🎥 Grabación Lección 03: [Ver en YouTube](https://www.youtube.com/watch?v=rfvZ2wqzq08)
 
