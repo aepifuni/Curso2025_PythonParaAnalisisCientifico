@@ -56,13 +56,12 @@ Aquí encontrarás:
 ## 🧪 Módulo 3: Manejo de Datos en Ciencias de los Materiales
 
 ### Contenido:
-1. **Taller 1: Introducción a HyperSpy**
+1. **Taller A: Introducción a HyperSpy**
    - [Notebook - HyperSpy](link_al_notebook_hyperspy)
-   - 🎥 Grabación Lección 11: [Ver en YouTube](link_video_taller03)
-
-2. **Taller 2: Introducción a Atomap**
+2. **Taller B: Introducción a Atomap**
    - [Notebook - Atomap](link_al_notebook_atomap)
-   - 🎥 Grabación Lección 12: [Ver en YouTube](link_video_taller03)
+
+   - 🎥 Grabación Lección 11: [Ver en YouTube](link_video_taller03)
 
 ---
 
