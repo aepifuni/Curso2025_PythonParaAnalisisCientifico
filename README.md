@@ -57,8 +57,8 @@ Aquí encontrarás:
 
 ### Contenido:
 1. **Taller: Introducción a HyperSpy y Atomap**
-   - [Notebook - HyperSpy](link_al_notebook_hyperspy)
-   - [Notebook - Atomap](link_al_notebook_atomap)
+   - [Notebook - HyperSpy_Atomap](https://github.com/aepifuni/Curso2025_PythonParaAnalisisCientifico/blob/main/M3_Ciencia%20de%20los%20Materiales/1_HyperSpy_Atomap.ipynb)
+   - [Data](https://drive.google.com/file/d/1EnmvJrO6sZdvC5PRv3DeQ0YZwjea91Gx/view?usp=drive_link)
    - 🎥 Grabación Lección 11: [Ver en YouTube](https://youtu.be/YyFZgk8YKYg?si=95h1buzpzKMTns8A)
 
 ---
