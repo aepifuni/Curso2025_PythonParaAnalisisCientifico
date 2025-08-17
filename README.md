@@ -61,7 +61,7 @@ Aquí encontrarás:
 2. **Taller B: Introducción a Atomap**
    - [Notebook - Atomap](link_al_notebook_atomap)
 
-   - 🎥 Grabación Lección 11: [Ver en YouTube](link_video_taller03)
+   - 🎥 Grabación Lección 11: [Ver en YouTube](https://youtu.be/YyFZgk8YKYg?si=95h1buzpzKMTns8A)
 
 ---
 
