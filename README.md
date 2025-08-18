@@ -62,6 +62,12 @@ Aquí encontrarás:
    - 🎥 Grabación Lección 11: [Ver en YouTube](https://youtu.be/YyFZgk8YKYg?si=95h1buzpzKMTns8A)
 
 ---
+### Colaboradores:
+- Andersson Romero 
+- Renzo Urco
+- Veliana
+- Daniel Rey
+---
 
 ## 📢 Contacto
 
