@@ -63,10 +63,10 @@ Aquí encontrarás:
 
 ---
 ### Colaboradores:
-- Andersson Romero 
-- Renzo Urco
+- Andersson  
+- Renzo 
 - Veliana
-- Daniel Rey
+- Daniel 
 ---
 
 ## 📢 Contacto
